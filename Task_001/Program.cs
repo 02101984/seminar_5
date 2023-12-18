@@ -1,6 +1,5 @@
 ﻿// Задача 1. 
 
-
 Console.Write("Введите строку: ");
 int pos1 = Convert.ToInt32(Console.ReadLine()) - 1;
 Console.Write("Введите столбец: ");
