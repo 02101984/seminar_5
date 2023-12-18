@@ -1,8 +1,6 @@
 ﻿
 Задача 2.
 
-
-
  var array = new int[4, 4];
            
             for(int i = 0; i < array.GetLength(1); i++)
